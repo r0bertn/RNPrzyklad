@@ -1,0 +1,15 @@
+1. Tworzymy pliki projektu reactowego
+npx react-native@latest init NAZWA_PROJEKTU
+
+2. cd NAZWA_PROJEKTU
+
+3. Wrzucić (podmienić) pliki z repo do stworzonego folderu
+
+4.
+npm install @openspacelabs/react-native-zoomable-view
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native
+
+5. npx react-native start
+
+6. a
